@@ -40,7 +40,7 @@ namespace InternetOfThing
             //发送电子邮件
             EmailComposeTask task = new EmailComposeTask
             {
-                To = "lython@outlook.com",
+                To = "lython@live.cn",
                 Subject = "[Lython][WP8]" + this.pivot.Title.ToString() + version.Title.ToString(),
                 Body = "\n\n\n生产厂商：" + manufacturer + "\n手机型号：" + name + "\nOS版本：" + OSVersion,
             };
