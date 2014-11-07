@@ -1,0 +1,104 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="LiStopWatch.LoopPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    xmlns:toolkitPrimitives="clr-namespace:Microsoft.Phone.Controls.Primitives;assembly=Microsoft.Phone.Controls.Toolkit"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="696"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait"  Orientation="Portrait"
+    shell:SystemTray.Opacity="0"
+    shell:SystemTray.IsVisible="True"
+    BackKeyPress="PhoneApplicationPage_BackKeyPress">
+
+    <phone:PhoneApplicationPage.Projection>
+        <PlaneProjection x:Name="translate"
+                         CenterOfRotationX="0.5" CenterOfRotationY="0.5"/>
+    </phone:PhoneApplicationPage.Projection>
+
+    <phone:PhoneApplicationPage.Resources>
+        <Storyboard x:Name="storyboard_1">
+            <DoubleAnimation Storyboard.TargetName="translate"
+                             Storyboard.TargetProperty="RotationX"
+                             From="-45" To="0" Duration="0:0:.2" />
+        </Storyboard>
+        <Storyboard x:Name="storyboard_2">
+            <DoubleAnimation Storyboard.TargetName="translate"
+                             Storyboard.TargetProperty="RotationX"
+                             From="0" To="90" Duration="0:0:0.2" />
+        </Storyboard>
+    </phone:PhoneApplicationPage.Resources>
+
+    <Grid x:Name="LayoutRoot">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--TitlePanel 包含应用程序的名称和页标题-->
+        <StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,30,0,28">
+            <TextBlock x:Name="ApplicationTitle" Text="选择倒计时时长" Style="{StaticResource PhoneTextNormalStyle}"/>
+        </StackPanel>
+
+        <!--ContentPanel - 在此处放置其他内容-->
+        <Grid Grid.Row="1" Height="700" HorizontalAlignment="Left" Name="grid1" VerticalAlignment="Top" Width="450" Margin="12,10,0,28">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="170*" />
+                <ColumnDefinition Width="170*" />
+                <ColumnDefinition Width="170*" />
+            </Grid.ColumnDefinitions>
+            <toolkitPrimitives:LoopingSelector Grid.Column="0" x:Name="selectorOne" 
+                                               ItemMargin="2,3,3,2" ItemSize="145,145"
+                                               MouseLeftButtonUp="selectorOne_MouseLeftButtonUp" >
+                <toolkitPrimitives:LoopingSelector.ItemTemplate>
+                    <DataTemplate>
+                        <Grid>
+                            <StackPanel>
+                                <TextBlock Text="时" FontSize="{StaticResource PhoneFontSizeLarge}" HorizontalAlignment="Right"  VerticalAlignment="Top"/>
+                                <TextBlock Text="{Binding}" FontSize="{StaticResource PhoneFontSizeExtraExtraLarge}" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                            </StackPanel>
+                        </Grid>
+                    </DataTemplate>
+                </toolkitPrimitives:LoopingSelector.ItemTemplate>
+            </toolkitPrimitives:LoopingSelector>
+            <toolkitPrimitives:LoopingSelector Grid.Column="1" x:Name="selectorTwo" MouseLeftButtonDown="selectorTwo_MouseLeftButtonUp" ItemMargin="2,3,3,2" ItemSize="145,145">
+                <toolkitPrimitives:LoopingSelector.ItemTemplate>
+                    <DataTemplate>
+                        <Grid>
+                            <StackPanel>
+                                <TextBlock Text="分" FontSize="{StaticResource PhoneFontSizeLarge}" HorizontalAlignment="Right"  VerticalAlignment="Top"/>
+                                <TextBlock Text="{Binding}" FontSize="{StaticResource PhoneFontSizeExtraExtraLarge}" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                            </StackPanel>
+                        </Grid>
+                    </DataTemplate>
+                </toolkitPrimitives:LoopingSelector.ItemTemplate>
+            </toolkitPrimitives:LoopingSelector>
+            <toolkitPrimitives:LoopingSelector Grid.Column="2" x:Name="selectorThree" MouseLeftButtonDown="selectorThree_MouseLeftButtonUp" ItemMargin="2,3,3,2" ItemSize="145,145">
+                <toolkitPrimitives:LoopingSelector.ItemTemplate>
+                    <DataTemplate>
+                        <Grid>
+                            <StackPanel>
+                                <TextBlock Text="秒" FontSize="{StaticResource PhoneFontSizeLarge}" HorizontalAlignment="Right"  VerticalAlignment="Top"/>
+                                <TextBlock Text="{Binding}" FontSize="{StaticResource PhoneFontSizeExtraExtraLarge}" HorizontalAlignment="Center" VerticalAlignment="Center" />
+                            </StackPanel>
+                        </Grid>
+                    </DataTemplate>
+                </toolkitPrimitives:LoopingSelector.ItemTemplate>
+            </toolkitPrimitives:LoopingSelector>
+        </Grid>
+    </Grid>
+
+    <!--演示 ApplicationBar 用法的示例代码-->
+    <phone:PhoneApplicationPage.ApplicationBar>
+        <shell:ApplicationBar IsVisible="True" IsMenuEnabled="True">
+            <shell:ApplicationBarIconButton x:Name="appbar_ok" Click="appbar_ok_Click" IconUri="/Images/appbar.ok.png" Text="确定"/>
+            <shell:ApplicationBarIconButton x:Name="appbar_cancel" Click="appbar_cancel_Click" IconUri="/Images/appbar.cancel.png" Text="取消"/>
+        </shell:ApplicationBar>
+    </phone:PhoneApplicationPage.ApplicationBar>
+</phone:PhoneApplicationPage>

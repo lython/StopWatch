@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\Windows Phone\LiStopWatch\LiStopWatch\Bin\Debug\ApplicationIcon.png
+C:\Users\Administrator\Desktop\Windows Phone\LiStopWatch\LiStopWatch\Bin\Debug\Background.png
+C:\Users\Administrator\Desktop\Windows Phone\LiStopWatch\LiStopWatch\Bin\Debug\LiStopWatch.dll
+C:\Users\Administrator\Desktop\Windows Phone\LiStopWatch\LiStopWatch\Bin\Debug\LiStopWatch.pdb
+C:\Users\Administrator\Desktop\Windows Phone\LiStopWatch\LiStopWatch\Bin\Debug\AppManifest.xaml
+C:\Users\Administrator\Desktop\Windows Phone\LiStopWatch\LiStopWatch\Bin\Debug\LiStopWatch.xap
+C:\Users\Administrator\Desktop\Windows Phone\LiStopWatch\LiStopWatch\Bin\Debug\Coding4Fun.Phone.Controls.dll
+C:\Users\Administrator\Desktop\Windows Phone\LiStopWatch\LiStopWatch\Bin\Debug\Microsoft.Phone.Controls.dll
+C:\Users\Administrator\Desktop\Windows Phone\LiStopWatch\LiStopWatch\Bin\Debug\Microsoft.Phone.Controls.xml
+C:\Users\Administrator\Desktop\Windows Phone\LiStopWatch\LiStopWatch\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Windows Phone\LiStopWatch\LiStopWatch\obj\Debug\App.g.i.cs
+C:\Users\Administrator\Desktop\Windows Phone\LiStopWatch\LiStopWatch\obj\Debug\MainPage.g.i.cs
+C:\Users\Administrator\Desktop\Windows Phone\LiStopWatch\LiStopWatch\obj\Debug\PivotPageAbout.g.i.cs
+C:\Users\Administrator\Desktop\Windows Phone\LiStopWatch\LiStopWatch\obj\Debug\LiStopWatch.g.resources
+C:\Users\Administrator\Desktop\Windows Phone\LiStopWatch\LiStopWatch\obj\Debug\LiStopWatch.dll
+C:\Users\Administrator\Desktop\Windows Phone\LiStopWatch\LiStopWatch\obj\Debug\LiStopWatch.pdb
+C:\Users\Administrator\Desktop\Windows Phone\LiStopWatch\LiStopWatch\obj\Debug\XapCacheFile.xml

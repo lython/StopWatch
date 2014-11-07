@@ -1,0 +1,63 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="LiStopWatch.SettingPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    xmlns:controls="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls"
+    xmlns:toolkit="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone.Controls.Toolkit"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    mc:Ignorable="d" d:DesignHeight="768" d:DesignWidth="480"
+    shell:SystemTray.Opacity="0"
+    shell:SystemTray.IsVisible="True"
+    BackKeyPress="PhoneApplicationPage_BackKeyPress">
+
+    <phone:PhoneApplicationPage.Projection>
+        <PlaneProjection x:Name="translate"
+                         CenterOfRotationX="0.5" CenterOfRotationY="0.5"/>
+    </phone:PhoneApplicationPage.Projection>
+
+    <phone:PhoneApplicationPage.Resources>
+        <Storyboard x:Name="storyboard_1">
+            <DoubleAnimation Storyboard.TargetName="translate"
+                             Storyboard.TargetProperty="RotationX"
+                             From="-90" To="0" Duration="0:0:.5" />
+        </Storyboard>
+        <Storyboard x:Name="storyboard_2">
+            <DoubleAnimation Storyboard.TargetName="translate"
+                             Storyboard.TargetProperty="RotationX"
+                             From="0" To="90" Duration="0:0:0.2" />
+        </Storyboard>
+    </phone:PhoneApplicationPage.Resources>
+
+    <!--LayoutRoot 是包含所有页面内容的根网格-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <!--TitlePanel 包含应用程序的名称和页标题-->
+        <controls:Pivot Title="{StaticResource appTitle}" Name="MyPage" Margin="0,15,0,0">
+            <controls:PivotItem Header="设置">
+                <ScrollViewer VerticalScrollBarVisibility="Hidden">
+                    <StackPanel Margin="5,0,0,0">
+                        <toolkit:ToggleSwitch Name="toggleBackground" Header="自定义背景" Checked="toggleBackground_Checked" Unchecked="toggleBackground_Checked" />
+                        <toolkit:ToggleSwitch Name="toggleExit" Header="退出提示" Checked="OnToggleExitChecked" Unchecked="OnToggleExitChecked" />
+                        <toolkit:ToggleSwitch Name="togglePlayer" Header="倒计时声音提醒" Checked="OnTogglePlayerChecked" Unchecked="OnTogglePlayerChecked"/>
+                        <toolkit:ToggleSwitch Name="toggleVibrate" Header="倒计时震动提醒" Checked="OnToggleVibrateChecked" Unchecked="OnToggleVibrateChecked"/>
+                        <toolkit:ToggleSwitch Name="toggleStart" Header="摇一摇开始计时" Checked="OnToggleStartChecked" Unchecked="OnToggleStartChecked" IsChecked="True" />
+                        <toolkit:ToggleSwitch Name="toggleStop" Header="摇一摇停止计时" Checked="OnToggleStopChecked" Unchecked="OnToggleStopChecked" />
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Name="textBlockLvT" Text="  摇一摇灵敏度调整  " />
+                            <TextBlock Name="textBlockLv" Text=" 80" Foreground="{StaticResource PhoneAccentBrush}"/>
+                        </StackPanel>
+                        <Slider Name="sliderLimit" MouseLeftButtonUp="sliderLimit_MouseLeftButtonUp"  Value="80" SmallChange="1" Minimum="0" Maximum="100"/>
+                    </StackPanel>
+                </ScrollViewer>
+            </controls:PivotItem>
+        </controls:Pivot>
+    </Grid>
+        
+
+</phone:PhoneApplicationPage>

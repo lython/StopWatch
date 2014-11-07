@@ -1,0 +1,690 @@
+C:\Users\Administrator\Desktop\Windows Phone\LiStopWatch\LiStopWatch\Bin\Release\ApplicationIcon.png
+C:\Users\Administrator\Desktop\Windows Phone\LiStopWatch\LiStopWatch\Bin\Release\Background.png
+C:\Users\Administrator\Desktop\Windows Phone\LiStopWatch\LiStopWatch\Bin\Release\LiStopWatch.dll
+C:\Users\Administrator\Desktop\Windows Phone\LiStopWatch\LiStopWatch\Bin\Release\LiStopWatch.pdb
+C:\Users\Administrator\Desktop\Windows Phone\LiStopWatch\LiStopWatch\Bin\Release\AppManifest.xaml
+C:\Users\Administrator\Desktop\Windows Phone\LiStopWatch\LiStopWatch\Bin\Release\LiStopWatch.xap
+C:\Users\Administrator\Desktop\Windows Phone\LiStopWatch\LiStopWatch\Bin\Release\Coding4Fun.Phone.Controls.dll
+C:\Users\Administrator\Desktop\Windows Phone\LiStopWatch\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Administrator\Desktop\Windows Phone\LiStopWatch\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\Administrator\Desktop\Windows Phone\LiStopWatch\LiStopWatch\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Windows Phone\LiStopWatch\LiStopWatch\obj\Release\App.g.i.cs
+C:\Users\Administrator\Desktop\Windows Phone\LiStopWatch\LiStopWatch\obj\Release\MainPage.g.i.cs
+C:\Users\Administrator\Desktop\Windows Phone\LiStopWatch\LiStopWatch\obj\Release\LiStopWatch.g.resources
+C:\Users\Administrator\Desktop\Windows Phone\LiStopWatch\LiStopWatch\obj\Release\LiStopWatch.dll
+C:\Users\Administrator\Desktop\Windows Phone\LiStopWatch\LiStopWatch\obj\Release\LiStopWatch.pdb
+C:\Users\Administrator\Desktop\Windows Phone\LiStopWatch\LiStopWatch\obj\Release\XapCacheFile.xml
+C:\Users\Administrator\Desktop\Windows Phone\LiStopWatch\LiStopWatch\obj\Release\PivotPageAbout.g.i.cs
+E:\Windows Phone\提交App\秒表\1.1\代码\LiStopWatch\obj\Release\ResolveAssemblyReference.cache
+E:\Windows Phone\提交App\秒表\1.1\代码\LiStopWatch\obj\Release\App.g.i.cs
+E:\Windows Phone\提交App\秒表\1.1\代码\LiStopWatch\obj\Release\MainPage.g.i.cs
+E:\Windows Phone\提交App\秒表\1.1\代码\LiStopWatch\obj\Release\PivotPageAbout.g.i.cs
+E:\Windows Phone\提交App\秒表\1.1\代码\LiStopWatch\obj\Release\LiStopWatch.g.resources
+E:\Windows Phone\提交App\秒表\1.1\代码\LiStopWatch\obj\Release\LiStopWatch.dll
+E:\Windows Phone\提交App\秒表\1.1\代码\LiStopWatch\Bin\Release\ApplicationIcon.png
+E:\Windows Phone\提交App\秒表\1.1\代码\LiStopWatch\Bin\Release\Background.png
+E:\Windows Phone\提交App\秒表\1.1\代码\LiStopWatch\Bin\Release\LiStopWatch.dll
+E:\Windows Phone\提交App\秒表\1.1\代码\LiStopWatch\Bin\Release\LiStopWatch.pdb
+E:\Windows Phone\提交App\秒表\1.1\代码\LiStopWatch\Bin\Release\AppManifest.xaml
+E:\Windows Phone\提交App\秒表\1.1\代码\LiStopWatch\Bin\Release\LiStopWatch.xap
+E:\Windows Phone\提交App\秒表\1.1\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.dll
+E:\Windows Phone\提交App\秒表\1.1\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.xml
+E:\Windows Phone\提交App\秒表\1.1\代码\LiStopWatch\obj\Release\LiStopWatch.pdb
+E:\Windows Phone\提交App\秒表\1.1\代码\LiStopWatch\obj\Release\XapCacheFile.xml
+E:\Windows Phone\提交App\秒表\1.1\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\秒表\1.1\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+E:\Windows Phone\提交App\秒表\1.1\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+E:\Windows Phone\提交App\秒表\1.1\代码\LiStopWatch\obj\Release\SettingPage.g.i.cs
+C:\Users\Administrator\Desktop\代码\LiStopWatch\Bin\Release\ApplicationIcon.png
+C:\Users\Administrator\Desktop\代码\LiStopWatch\Bin\Release\LiStopWatch.dll
+C:\Users\Administrator\Desktop\代码\LiStopWatch\Bin\Release\LiStopWatch.pdb
+C:\Users\Administrator\Desktop\代码\LiStopWatch\Bin\Release\AppManifest.xaml
+C:\Users\Administrator\Desktop\代码\LiStopWatch\Bin\Release\LiStopWatch.xap
+C:\Users\Administrator\Desktop\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Administrator\Desktop\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\Administrator\Desktop\代码\LiStopWatch\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\代码\LiStopWatch\obj\Release\App.g.i.cs
+C:\Users\Administrator\Desktop\代码\LiStopWatch\obj\Release\MainPage.g.i.cs
+C:\Users\Administrator\Desktop\代码\LiStopWatch\obj\Release\PivotPageAbout.g.i.cs
+C:\Users\Administrator\Desktop\代码\LiStopWatch\obj\Release\SettingPage.g.i.cs
+C:\Users\Administrator\Desktop\代码\LiStopWatch\obj\Release\LiStopWatch.g.resources
+C:\Users\Administrator\Desktop\代码\LiStopWatch\obj\Release\LiStopWatch.dll
+C:\Users\Administrator\Desktop\代码\LiStopWatch\obj\Release\LiStopWatch.pdb
+C:\Users\Administrator\Desktop\代码\LiStopWatch\obj\Release\XapCacheFile.xml
+E:\Windows Phone\提交App\秒表\1.2\代码\LiStopWatch\Bin\Release\ApplicationIcon.png
+E:\Windows Phone\提交App\秒表\1.2\代码\LiStopWatch\Bin\Release\Background.png
+E:\Windows Phone\提交App\秒表\1.2\代码\LiStopWatch\Bin\Release\LiStopWatch.dll
+E:\Windows Phone\提交App\秒表\1.2\代码\LiStopWatch\Bin\Release\LiStopWatch.pdb
+E:\Windows Phone\提交App\秒表\1.2\代码\LiStopWatch\Bin\Release\AppManifest.xaml
+E:\Windows Phone\提交App\秒表\1.2\代码\LiStopWatch\Bin\Release\LiStopWatch.xap
+E:\Windows Phone\提交App\秒表\1.2\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.dll
+E:\Windows Phone\提交App\秒表\1.2\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\秒表\1.2\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.xml
+E:\Windows Phone\提交App\秒表\1.2\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+E:\Windows Phone\提交App\秒表\1.2\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+E:\Windows Phone\提交App\秒表\1.2\代码\LiStopWatch\obj\Release\ResolveAssemblyReference.cache
+E:\Windows Phone\提交App\秒表\1.2\代码\LiStopWatch\obj\Release\App.g.i.cs
+E:\Windows Phone\提交App\秒表\1.2\代码\LiStopWatch\obj\Release\MainPage.g.i.cs
+E:\Windows Phone\提交App\秒表\1.2\代码\LiStopWatch\obj\Release\PivotPageAbout.g.i.cs
+E:\Windows Phone\提交App\秒表\1.2\代码\LiStopWatch\obj\Release\SettingPage.g.i.cs
+E:\Windows Phone\提交App\秒表\1.2\代码\LiStopWatch\obj\Release\LiStopWatch.g.resources
+E:\Windows Phone\提交App\秒表\1.2\代码\LiStopWatch\obj\Release\LiStopWatch.dll
+E:\Windows Phone\提交App\秒表\1.2\代码\LiStopWatch\obj\Release\LiStopWatch.pdb
+E:\Windows Phone\提交App\秒表\1.2\代码\LiStopWatch\obj\Release\XapCacheFile.xml
+C:\Users\Administrator\Desktop\1.2\代码\LiStopWatch\Bin\Release\ApplicationIcon.png
+C:\Users\Administrator\Desktop\1.2\代码\LiStopWatch\Bin\Release\Background.png
+C:\Users\Administrator\Desktop\1.2\代码\LiStopWatch\Bin\Release\LiStopWatch.dll
+C:\Users\Administrator\Desktop\1.2\代码\LiStopWatch\Bin\Release\LiStopWatch.pdb
+C:\Users\Administrator\Desktop\1.2\代码\LiStopWatch\Bin\Release\AppManifest.xaml
+C:\Users\Administrator\Desktop\1.2\代码\LiStopWatch\Bin\Release\LiStopWatch.xap
+C:\Users\Administrator\Desktop\1.2\代码\LiStopWatch\Bin\Release\Coding4Fun.Phone.Controls.dll
+C:\Users\Administrator\Desktop\1.2\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Administrator\Desktop\1.2\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Administrator\Desktop\1.2\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\Administrator\Desktop\1.2\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Administrator\Desktop\1.2\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Administrator\Desktop\1.2\代码\LiStopWatch\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\1.2\代码\LiStopWatch\obj\Release\App.g.i.cs
+C:\Users\Administrator\Desktop\1.2\代码\LiStopWatch\obj\Release\MainPage.g.i.cs
+C:\Users\Administrator\Desktop\1.2\代码\LiStopWatch\obj\Release\PivotPageAbout.g.i.cs
+C:\Users\Administrator\Desktop\1.2\代码\LiStopWatch\obj\Release\SettingPage.g.i.cs
+C:\Users\Administrator\Desktop\1.2\代码\LiStopWatch\obj\Release\LiStopWatch.g.resources
+C:\Users\Administrator\Desktop\1.2\代码\LiStopWatch\obj\Release\LiStopWatch.dll
+C:\Users\Administrator\Desktop\1.2\代码\LiStopWatch\obj\Release\LiStopWatch.pdb
+C:\Users\Administrator\Desktop\1.2\代码\LiStopWatch\obj\Release\XapCacheFile.xml
+C:\Users\Administrator\Desktop\1.2\代码\LiStopWatch\obj\Release\SaveFileDialog.g.i.cs
+E:\Windows Phone\提交App\秒表\1.3\代码\LiStopWatch\Bin\Release\ApplicationIcon.png
+E:\Windows Phone\提交App\秒表\1.3\代码\LiStopWatch\Bin\Release\Background.png
+E:\Windows Phone\提交App\秒表\1.3\代码\LiStopWatch\Bin\Release\LiStopWatch.dll
+E:\Windows Phone\提交App\秒表\1.3\代码\LiStopWatch\Bin\Release\LiStopWatch.pdb
+E:\Windows Phone\提交App\秒表\1.3\代码\LiStopWatch\Bin\Release\AppManifest.xaml
+E:\Windows Phone\提交App\秒表\1.3\代码\LiStopWatch\Bin\Release\LiStopWatch.xap
+E:\Windows Phone\提交App\秒表\1.3\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.dll
+E:\Windows Phone\提交App\秒表\1.3\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\秒表\1.3\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.xml
+E:\Windows Phone\提交App\秒表\1.3\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+E:\Windows Phone\提交App\秒表\1.3\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+E:\Windows Phone\提交App\秒表\1.3\代码\LiStopWatch\obj\Release\ResolveAssemblyReference.cache
+E:\Windows Phone\提交App\秒表\1.3\代码\LiStopWatch\obj\Release\App.g.i.cs
+E:\Windows Phone\提交App\秒表\1.3\代码\LiStopWatch\obj\Release\MainPage.g.i.cs
+E:\Windows Phone\提交App\秒表\1.3\代码\LiStopWatch\obj\Release\PivotPageAbout.g.i.cs
+E:\Windows Phone\提交App\秒表\1.3\代码\LiStopWatch\obj\Release\SaveFileDialog.g.i.cs
+E:\Windows Phone\提交App\秒表\1.3\代码\LiStopWatch\obj\Release\SettingPage.g.i.cs
+E:\Windows Phone\提交App\秒表\1.3\代码\LiStopWatch\obj\Release\LiStopWatch.g.resources
+E:\Windows Phone\提交App\秒表\1.3\代码\LiStopWatch\obj\Release\LiStopWatch.dll
+E:\Windows Phone\提交App\秒表\1.3\代码\LiStopWatch\obj\Release\LiStopWatch.pdb
+E:\Windows Phone\提交App\秒表\1.3\代码\LiStopWatch\obj\Release\XapCacheFile.xml
+E:\Windows Phone\提交App\秒表\1.20\代码\LiStopWatch\Bin\Release\ApplicationIcon.png
+E:\Windows Phone\提交App\秒表\1.20\代码\LiStopWatch\Bin\Release\Background.png
+E:\Windows Phone\提交App\秒表\1.20\代码\LiStopWatch\Bin\Release\LiStopWatch.dll
+E:\Windows Phone\提交App\秒表\1.20\代码\LiStopWatch\Bin\Release\LiStopWatch.pdb
+E:\Windows Phone\提交App\秒表\1.20\代码\LiStopWatch\Bin\Release\AppManifest.xaml
+E:\Windows Phone\提交App\秒表\1.20\代码\LiStopWatch\Bin\Release\LiStopWatch.xap
+E:\Windows Phone\提交App\秒表\1.20\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.dll
+E:\Windows Phone\提交App\秒表\1.20\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\秒表\1.20\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.xml
+E:\Windows Phone\提交App\秒表\1.20\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+E:\Windows Phone\提交App\秒表\1.20\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+E:\Windows Phone\提交App\秒表\1.20\代码\LiStopWatch\obj\Release\ResolveAssemblyReference.cache
+E:\Windows Phone\提交App\秒表\1.20\代码\LiStopWatch\obj\Release\App.g.i.cs
+E:\Windows Phone\提交App\秒表\1.20\代码\LiStopWatch\obj\Release\MainPage.g.i.cs
+E:\Windows Phone\提交App\秒表\1.20\代码\LiStopWatch\obj\Release\PivotPageAbout.g.i.cs
+E:\Windows Phone\提交App\秒表\1.20\代码\LiStopWatch\obj\Release\SaveFileDialog.g.i.cs
+E:\Windows Phone\提交App\秒表\1.20\代码\LiStopWatch\obj\Release\SettingPage.g.i.cs
+E:\Windows Phone\提交App\秒表\1.20\代码\LiStopWatch\obj\Release\LiStopWatch.g.resources
+E:\Windows Phone\提交App\秒表\1.20\代码\LiStopWatch\obj\Release\LiStopWatch.dll
+E:\Windows Phone\提交App\秒表\1.20\代码\LiStopWatch\obj\Release\LiStopWatch.pdb
+E:\Windows Phone\提交App\秒表\1.20\代码\LiStopWatch\obj\Release\XapCacheFile.xml
+C:\Users\Administrator\Desktop\代码\LiStopWatch\obj\Release\SaveFileDialog.g.i.cs
+E:\Windows Phone\提交App\秒表\1.3.0.0\代码\LiStopWatch\Bin\Release\ApplicationIcon.png
+E:\Windows Phone\提交App\秒表\1.3.0.0\代码\LiStopWatch\Bin\Release\Background.png
+E:\Windows Phone\提交App\秒表\1.3.0.0\代码\LiStopWatch\Bin\Release\LiStopWatch.dll
+E:\Windows Phone\提交App\秒表\1.3.0.0\代码\LiStopWatch\Bin\Release\LiStopWatch.pdb
+E:\Windows Phone\提交App\秒表\1.3.0.0\代码\LiStopWatch\Bin\Release\AppManifest.xaml
+E:\Windows Phone\提交App\秒表\1.3.0.0\代码\LiStopWatch\Bin\Release\LiStopWatch.xap
+E:\Windows Phone\提交App\秒表\1.3.0.0\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.dll
+E:\Windows Phone\提交App\秒表\1.3.0.0\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\秒表\1.3.0.0\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.xml
+E:\Windows Phone\提交App\秒表\1.3.0.0\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+E:\Windows Phone\提交App\秒表\1.3.0.0\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+E:\Windows Phone\提交App\秒表\1.3.0.0\代码\LiStopWatch\obj\Release\ResolveAssemblyReference.cache
+E:\Windows Phone\提交App\秒表\1.3.0.0\代码\LiStopWatch\obj\Release\App.g.i.cs
+E:\Windows Phone\提交App\秒表\1.3.0.0\代码\LiStopWatch\obj\Release\MainPage.g.i.cs
+E:\Windows Phone\提交App\秒表\1.3.0.0\代码\LiStopWatch\obj\Release\PivotPageAbout.g.i.cs
+E:\Windows Phone\提交App\秒表\1.3.0.0\代码\LiStopWatch\obj\Release\SaveFileDialog.g.i.cs
+E:\Windows Phone\提交App\秒表\1.3.0.0\代码\LiStopWatch\obj\Release\SettingPage.g.i.cs
+E:\Windows Phone\提交App\秒表\1.3.0.0\代码\LiStopWatch\obj\Release\LiStopWatch.g.resources
+E:\Windows Phone\提交App\秒表\1.3.0.0\代码\LiStopWatch\obj\Release\LiStopWatch.dll
+E:\Windows Phone\提交App\秒表\1.3.0.0\代码\LiStopWatch\obj\Release\LiStopWatch.pdb
+E:\Windows Phone\提交App\秒表\1.3.0.0\代码\LiStopWatch\obj\Release\XapCacheFile.xml
+E:\Windows Phone\提交App\秒表\1.3.0.1\代码\LiStopWatch\Bin\Release\ApplicationIcon.png
+E:\Windows Phone\提交App\秒表\1.3.0.1\代码\LiStopWatch\Bin\Release\Background.png
+E:\Windows Phone\提交App\秒表\1.3.0.1\代码\LiStopWatch\Bin\Release\LiStopWatch.dll
+E:\Windows Phone\提交App\秒表\1.3.0.1\代码\LiStopWatch\Bin\Release\LiStopWatch.pdb
+E:\Windows Phone\提交App\秒表\1.3.0.1\代码\LiStopWatch\Bin\Release\AppManifest.xaml
+E:\Windows Phone\提交App\秒表\1.3.0.1\代码\LiStopWatch\Bin\Release\LiStopWatch.xap
+E:\Windows Phone\提交App\秒表\1.3.0.1\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.dll
+E:\Windows Phone\提交App\秒表\1.3.0.1\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\秒表\1.3.0.1\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.xml
+E:\Windows Phone\提交App\秒表\1.3.0.1\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+E:\Windows Phone\提交App\秒表\1.3.0.1\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+E:\Windows Phone\提交App\秒表\1.3.0.1\代码\LiStopWatch\obj\Release\ResolveAssemblyReference.cache
+E:\Windows Phone\提交App\秒表\1.3.0.1\代码\LiStopWatch\obj\Release\App.g.i.cs
+E:\Windows Phone\提交App\秒表\1.3.0.1\代码\LiStopWatch\obj\Release\MainPage.g.i.cs
+E:\Windows Phone\提交App\秒表\1.3.0.1\代码\LiStopWatch\obj\Release\PivotPageAbout.g.i.cs
+E:\Windows Phone\提交App\秒表\1.3.0.1\代码\LiStopWatch\obj\Release\SaveFileDialog.g.i.cs
+E:\Windows Phone\提交App\秒表\1.3.0.1\代码\LiStopWatch\obj\Release\SettingPage.g.i.cs
+E:\Windows Phone\提交App\秒表\1.3.0.1\代码\LiStopWatch\obj\Release\LiStopWatch.g.resources
+E:\Windows Phone\提交App\秒表\1.3.0.1\代码\LiStopWatch\obj\Release\LiStopWatch.dll
+E:\Windows Phone\提交App\秒表\1.3.0.1\代码\LiStopWatch\obj\Release\LiStopWatch.pdb
+E:\Windows Phone\提交App\秒表\1.3.0.1\代码\LiStopWatch\obj\Release\XapCacheFile.xml
+E:\Windows Phone\提交App\秒表\1.3.0.2\代码\LiStopWatch\Bin\Release\ApplicationIcon.png
+E:\Windows Phone\提交App\秒表\1.3.0.2\代码\LiStopWatch\Bin\Release\Background.png
+E:\Windows Phone\提交App\秒表\1.3.0.2\代码\LiStopWatch\Bin\Release\LiStopWatch.dll
+E:\Windows Phone\提交App\秒表\1.3.0.2\代码\LiStopWatch\Bin\Release\LiStopWatch.pdb
+E:\Windows Phone\提交App\秒表\1.3.0.2\代码\LiStopWatch\Bin\Release\AppManifest.xaml
+E:\Windows Phone\提交App\秒表\1.3.0.2\代码\LiStopWatch\Bin\Release\LiStopWatch.xap
+E:\Windows Phone\提交App\秒表\1.3.0.2\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.dll
+E:\Windows Phone\提交App\秒表\1.3.0.2\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\秒表\1.3.0.2\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.xml
+E:\Windows Phone\提交App\秒表\1.3.0.2\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+E:\Windows Phone\提交App\秒表\1.3.0.2\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+E:\Windows Phone\提交App\秒表\1.3.0.2\代码\LiStopWatch\obj\Release\ResolveAssemblyReference.cache
+E:\Windows Phone\提交App\秒表\1.3.0.2\代码\LiStopWatch\obj\Release\App.g.i.cs
+E:\Windows Phone\提交App\秒表\1.3.0.2\代码\LiStopWatch\obj\Release\MainPage.g.i.cs
+E:\Windows Phone\提交App\秒表\1.3.0.2\代码\LiStopWatch\obj\Release\PivotPageAbout.g.i.cs
+E:\Windows Phone\提交App\秒表\1.3.0.2\代码\LiStopWatch\obj\Release\SaveFileDialog.g.i.cs
+E:\Windows Phone\提交App\秒表\1.3.0.2\代码\LiStopWatch\obj\Release\SettingPage.g.i.cs
+E:\Windows Phone\提交App\秒表\1.3.0.2\代码\LiStopWatch\obj\Release\LiStopWatch.g.resources
+E:\Windows Phone\提交App\秒表\1.3.0.2\代码\LiStopWatch\obj\Release\LiStopWatch.dll
+E:\Windows Phone\提交App\秒表\1.3.0.2\代码\LiStopWatch\obj\Release\LiStopWatch.pdb
+E:\Windows Phone\提交App\秒表\1.3.0.2\代码\LiStopWatch\obj\Release\XapCacheFile.xml
+E:\Windows Phone\提交App\秒表\1.3.0.3\代码\LiStopWatch\Bin\Release\ApplicationIcon.png
+E:\Windows Phone\提交App\秒表\1.3.0.3\代码\LiStopWatch\Bin\Release\LiStopWatch.dll
+E:\Windows Phone\提交App\秒表\1.3.0.3\代码\LiStopWatch\Bin\Release\LiStopWatch.pdb
+E:\Windows Phone\提交App\秒表\1.3.0.3\代码\LiStopWatch\Bin\Release\AppManifest.xaml
+E:\Windows Phone\提交App\秒表\1.3.0.3\代码\LiStopWatch\Bin\Release\LiStopWatch.xap
+E:\Windows Phone\提交App\秒表\1.3.0.3\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.dll
+E:\Windows Phone\提交App\秒表\1.3.0.3\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\秒表\1.3.0.3\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.xml
+E:\Windows Phone\提交App\秒表\1.3.0.3\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+E:\Windows Phone\提交App\秒表\1.3.0.3\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+E:\Windows Phone\提交App\秒表\1.3.0.3\代码\LiStopWatch\obj\Release\ResolveAssemblyReference.cache
+E:\Windows Phone\提交App\秒表\1.3.0.3\代码\LiStopWatch\obj\Release\App.g.i.cs
+E:\Windows Phone\提交App\秒表\1.3.0.3\代码\LiStopWatch\obj\Release\MainPage.g.i.cs
+E:\Windows Phone\提交App\秒表\1.3.0.3\代码\LiStopWatch\obj\Release\PivotPageAbout.g.i.cs
+E:\Windows Phone\提交App\秒表\1.3.0.3\代码\LiStopWatch\obj\Release\SaveFileDialog.g.i.cs
+E:\Windows Phone\提交App\秒表\1.3.0.3\代码\LiStopWatch\obj\Release\SettingPage.g.i.cs
+E:\Windows Phone\提交App\秒表\1.3.0.3\代码\LiStopWatch\obj\Release\LiStopWatch.g.resources
+E:\Windows Phone\提交App\秒表\1.3.0.3\代码\LiStopWatch\obj\Release\LiStopWatch.dll
+E:\Windows Phone\提交App\秒表\1.3.0.3\代码\LiStopWatch\obj\Release\LiStopWatch.pdb
+E:\Windows Phone\提交App\秒表\1.3.0.3\代码\LiStopWatch\obj\Release\XapCacheFile.xml
+E:\Windows Phone\提交App\秒表\1.3.0.4\代码\LiStopWatch\Bin\Release\ApplicationIcon.png
+E:\Windows Phone\提交App\秒表\1.3.0.4\代码\LiStopWatch\Bin\Release\LiStopWatch.dll
+E:\Windows Phone\提交App\秒表\1.3.0.4\代码\LiStopWatch\Bin\Release\LiStopWatch.pdb
+E:\Windows Phone\提交App\秒表\1.3.0.4\代码\LiStopWatch\Bin\Release\AppManifest.xaml
+E:\Windows Phone\提交App\秒表\1.3.0.4\代码\LiStopWatch\Bin\Release\LiStopWatch.xap
+E:\Windows Phone\提交App\秒表\1.3.0.4\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.dll
+E:\Windows Phone\提交App\秒表\1.3.0.4\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\秒表\1.3.0.4\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.xml
+E:\Windows Phone\提交App\秒表\1.3.0.4\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+E:\Windows Phone\提交App\秒表\1.3.0.4\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+E:\Windows Phone\提交App\秒表\1.3.0.4\代码\LiStopWatch\obj\Release\ResolveAssemblyReference.cache
+E:\Windows Phone\提交App\秒表\1.3.0.4\代码\LiStopWatch\obj\Release\App.g.i.cs
+E:\Windows Phone\提交App\秒表\1.3.0.4\代码\LiStopWatch\obj\Release\MainPage.g.i.cs
+E:\Windows Phone\提交App\秒表\1.3.0.4\代码\LiStopWatch\obj\Release\PivotPageAbout.g.i.cs
+E:\Windows Phone\提交App\秒表\1.3.0.4\代码\LiStopWatch\obj\Release\SaveFileDialog.g.i.cs
+E:\Windows Phone\提交App\秒表\1.3.0.4\代码\LiStopWatch\obj\Release\SettingPage.g.i.cs
+E:\Windows Phone\提交App\秒表\1.3.0.4\代码\LiStopWatch\obj\Release\LiStopWatch.g.resources
+E:\Windows Phone\提交App\秒表\1.3.0.4\代码\LiStopWatch\obj\Release\LiStopWatch.dll
+E:\Windows Phone\提交App\秒表\1.3.0.4\代码\LiStopWatch\obj\Release\LiStopWatch.pdb
+E:\Windows Phone\提交App\秒表\1.3.0.4\代码\LiStopWatch\obj\Release\XapCacheFile.xml
+E:\Windows Phone\提交App\秒表\1.3.0.4\代码\LiStopWatch\obj\Release\LoopPage.g.i.cs
+E:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\Bin\Release\ApplicationIcon.png
+E:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\Bin\Release\LiStopWatch.dll
+E:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\Bin\Release\LiStopWatch.pdb
+E:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\Bin\Release\AppManifest.xaml
+E:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\Bin\Release\LiStopWatch.xap
+E:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.dll
+E:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.xml
+E:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\obj\Release\LiStopWatch.g.resources
+E:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\obj\Release\LiStopWatch.dll
+E:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\obj\Release\LiStopWatch.pdb
+E:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\obj\Release\XapCacheFile.xml
+F:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\Bin\Release\ApplicationIcon.png
+F:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\Bin\Release\LiStopWatch.dll
+F:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\Bin\Release\LiStopWatch.pdb
+F:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\Bin\Release\AppManifest.xaml
+F:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\Bin\Release\LiStopWatch.xap
+F:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.dll
+F:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.xml
+F:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+F:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+F:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\obj\Release\LiStopWatch.csprojResolveAssemblyReference.cache
+F:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\obj\Release\App.g.cs
+F:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\obj\Release\MainPage.g.cs
+F:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\obj\Release\PivotPageAbout.g.cs
+F:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\obj\Release\SaveFileDialog.g.cs
+F:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\obj\Release\SettingPage.g.cs
+F:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\obj\Release\LoopPage.g.cs
+F:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\obj\Release\LiStopWatch.g.resources
+F:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\obj\Release\LiStopWatch.dll
+F:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\obj\Release\LiStopWatch.pdb
+F:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\obj\Release\XapCacheFile.xml
+E:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\obj\Release\App.g.cs
+E:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\obj\Release\MainPage.g.cs
+E:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\obj\Release\PivotPageAbout.g.cs
+E:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\obj\Release\SaveFileDialog.g.cs
+E:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\obj\Release\SettingPage.g.cs
+E:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\obj\Release\LoopPage.g.cs
+E:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\Bin\Release\Coding4Fun.Phone.Controls.dll
+E:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\秒表\1.4.0.0\代码\LiStopWatch\Bin\Release\ShakeGestures.dll
+E:\Windows Phone\提交App\秒表\1.4.0.1\代码\LiStopWatch\Bin\Release\ApplicationIcon.png
+E:\Windows Phone\提交App\秒表\1.4.0.1\代码\LiStopWatch\Bin\Release\LiStopWatch.dll
+E:\Windows Phone\提交App\秒表\1.4.0.1\代码\LiStopWatch\Bin\Release\LiStopWatch.pdb
+E:\Windows Phone\提交App\秒表\1.4.0.1\代码\LiStopWatch\Bin\Release\AppManifest.xaml
+E:\Windows Phone\提交App\秒表\1.4.0.1\代码\LiStopWatch\Bin\Release\LiStopWatch.xap
+E:\Windows Phone\提交App\秒表\1.4.0.1\代码\LiStopWatch\Bin\Release\Coding4Fun.Phone.Controls.dll
+E:\Windows Phone\提交App\秒表\1.4.0.1\代码\LiStopWatch\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\秒表\1.4.0.1\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.dll
+E:\Windows Phone\提交App\秒表\1.4.0.1\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\秒表\1.4.0.1\代码\LiStopWatch\Bin\Release\ShakeGestures.dll
+E:\Windows Phone\提交App\秒表\1.4.0.1\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.xml
+E:\Windows Phone\提交App\秒表\1.4.0.1\代码\LiStopWatch\obj\Release\LiStopWatch.g.resources
+E:\Windows Phone\提交App\秒表\1.4.0.1\代码\LiStopWatch\obj\Release\LiStopWatch.dll
+E:\Windows Phone\提交App\秒表\1.4.0.1\代码\LiStopWatch\obj\Release\LiStopWatch.pdb
+E:\Windows Phone\提交App\秒表\1.4.0.1\代码\LiStopWatch\obj\Release\XapCacheFile.xml
+E:\Windows Phone\提交App\秒表\1.4.0.1\代码\LiStopWatch\obj\Release\ResolveAssemblyReference.cache
+E:\Windows Phone\提交App\秒表\1.4.0.1\代码\LiStopWatch\obj\Release\App.g.i.cs
+E:\Windows Phone\提交App\秒表\1.4.0.1\代码\LiStopWatch\obj\Release\MainPage.g.i.cs
+E:\Windows Phone\提交App\秒表\1.4.0.1\代码\LiStopWatch\obj\Release\PivotPageAbout.g.i.cs
+E:\Windows Phone\提交App\秒表\1.4.0.1\代码\LiStopWatch\obj\Release\SaveFileDialog.g.i.cs
+E:\Windows Phone\提交App\秒表\1.4.0.1\代码\LiStopWatch\obj\Release\SettingPage.g.i.cs
+E:\Windows Phone\提交App\秒表\1.4.0.1\代码\LiStopWatch\obj\Release\LoopPage.g.i.cs
+E:\Windows Phone\提交App\秒表\1.4.0.2\代码\LiStopWatch\Bin\Release\ApplicationIcon.png
+E:\Windows Phone\提交App\秒表\1.4.0.2\代码\LiStopWatch\Bin\Release\LiStopWatch.dll
+E:\Windows Phone\提交App\秒表\1.4.0.2\代码\LiStopWatch\Bin\Release\LiStopWatch.pdb
+E:\Windows Phone\提交App\秒表\1.4.0.2\代码\LiStopWatch\Bin\Release\AppManifest.xaml
+E:\Windows Phone\提交App\秒表\1.4.0.2\代码\LiStopWatch\Bin\Release\LiStopWatch.xap
+E:\Windows Phone\提交App\秒表\1.4.0.2\代码\LiStopWatch\Bin\Release\Coding4Fun.Phone.Controls.dll
+E:\Windows Phone\提交App\秒表\1.4.0.2\代码\LiStopWatch\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\秒表\1.4.0.2\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.dll
+E:\Windows Phone\提交App\秒表\1.4.0.2\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\秒表\1.4.0.2\代码\LiStopWatch\Bin\Release\ShakeGestures.dll
+E:\Windows Phone\提交App\秒表\1.4.0.2\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.xml
+E:\Windows Phone\提交App\秒表\1.4.0.2\代码\LiStopWatch\obj\Release\ResolveAssemblyReference.cache
+E:\Windows Phone\提交App\秒表\1.4.0.2\代码\LiStopWatch\obj\Release\App.g.i.cs
+E:\Windows Phone\提交App\秒表\1.4.0.2\代码\LiStopWatch\obj\Release\MainPage.g.i.cs
+E:\Windows Phone\提交App\秒表\1.4.0.2\代码\LiStopWatch\obj\Release\PivotPageAbout.g.i.cs
+E:\Windows Phone\提交App\秒表\1.4.0.2\代码\LiStopWatch\obj\Release\SaveFileDialog.g.i.cs
+E:\Windows Phone\提交App\秒表\1.4.0.2\代码\LiStopWatch\obj\Release\SettingPage.g.i.cs
+E:\Windows Phone\提交App\秒表\1.4.0.2\代码\LiStopWatch\obj\Release\LoopPage.g.i.cs
+E:\Windows Phone\提交App\秒表\1.4.0.2\代码\LiStopWatch\obj\Release\LiStopWatch.g.resources
+E:\Windows Phone\提交App\秒表\1.4.0.2\代码\LiStopWatch\obj\Release\LiStopWatch.dll
+E:\Windows Phone\提交App\秒表\1.4.0.2\代码\LiStopWatch\obj\Release\LiStopWatch.pdb
+E:\Windows Phone\提交App\秒表\1.4.0.2\代码\LiStopWatch\obj\Release\XapCacheFile.xml
+C:\Users\Administrator\Desktop\代码\LiStopWatch\obj\Release\LoopPage.g.i.cs
+C:\Users\Jee\Desktop\代码\LiStopWatch\Bin\Release\ApplicationIcon.png
+C:\Users\Jee\Desktop\代码\LiStopWatch\Bin\Release\LiStopWatch.dll
+C:\Users\Jee\Desktop\代码\LiStopWatch\Bin\Release\LiStopWatch.pdb
+C:\Users\Jee\Desktop\代码\LiStopWatch\Bin\Release\AppManifest.xaml
+C:\Users\Jee\Desktop\代码\LiStopWatch\Bin\Release\LiStopWatch.xap
+C:\Users\Jee\Desktop\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Jee\Desktop\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\Jee\Desktop\代码\LiStopWatch\obj\Release\App.g.cs
+C:\Users\Jee\Desktop\代码\LiStopWatch\obj\Release\MainPage.g.cs
+C:\Users\Jee\Desktop\代码\LiStopWatch\obj\Release\PivotPageAbout.g.cs
+C:\Users\Jee\Desktop\代码\LiStopWatch\obj\Release\SaveFileDialog.g.cs
+C:\Users\Jee\Desktop\代码\LiStopWatch\obj\Release\SettingPage.g.cs
+C:\Users\Jee\Desktop\代码\LiStopWatch\obj\Release\LoopPage.g.cs
+C:\Users\Jee\Desktop\代码\LiStopWatch\obj\Release\LiStopWatch.g.resources
+C:\Users\Jee\Desktop\代码\LiStopWatch\obj\Release\LiStopWatch.dll
+C:\Users\Jee\Desktop\代码\LiStopWatch\obj\Release\LiStopWatch.pdb
+C:\Users\Jee\Desktop\代码\LiStopWatch\obj\Release\XapCacheFile.xml
+C:\Users\Jee\Desktop\代码\LiStopWatch\Bin\Release\Coding4Fun.Phone.Controls.dll
+C:\Users\Jee\Desktop\代码\LiStopWatch\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\Jee\Desktop\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\Jee\Desktop\代码\LiStopWatch\Bin\Release\ShakeGestures.dll
+C:\Users\Jee\Desktop\代码\LiStopWatch\obj\Release\LiStopWatch.csprojResolveAssemblyReference.cache
+E:\Windows Phone\提交App\秒表\1.4.0.3\代码\LiStopWatch\Bin\Release\ApplicationIcon.png
+E:\Windows Phone\提交App\秒表\1.4.0.3\代码\LiStopWatch\Bin\Release\LiStopWatch.dll
+E:\Windows Phone\提交App\秒表\1.4.0.3\代码\LiStopWatch\Bin\Release\LiStopWatch.pdb
+E:\Windows Phone\提交App\秒表\1.4.0.3\代码\LiStopWatch\Bin\Release\AppManifest.xaml
+E:\Windows Phone\提交App\秒表\1.4.0.3\代码\LiStopWatch\Bin\Release\LiStopWatch.xap
+E:\Windows Phone\提交App\秒表\1.4.0.3\代码\LiStopWatch\Bin\Release\Coding4Fun.Phone.Controls.dll
+E:\Windows Phone\提交App\秒表\1.4.0.3\代码\LiStopWatch\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\秒表\1.4.0.3\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.dll
+E:\Windows Phone\提交App\秒表\1.4.0.3\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\秒表\1.4.0.3\代码\LiStopWatch\Bin\Release\ShakeGestures.dll
+E:\Windows Phone\提交App\秒表\1.4.0.3\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.xml
+E:\Windows Phone\提交App\秒表\1.4.0.3\代码\LiStopWatch\obj\Release\LiStopWatch.csprojResolveAssemblyReference.cache
+E:\Windows Phone\提交App\秒表\1.4.0.3\代码\LiStopWatch\obj\Release\App.g.cs
+E:\Windows Phone\提交App\秒表\1.4.0.3\代码\LiStopWatch\obj\Release\MainPage.g.cs
+E:\Windows Phone\提交App\秒表\1.4.0.3\代码\LiStopWatch\obj\Release\PivotPageAbout.g.cs
+E:\Windows Phone\提交App\秒表\1.4.0.3\代码\LiStopWatch\obj\Release\SaveFileDialog.g.cs
+E:\Windows Phone\提交App\秒表\1.4.0.3\代码\LiStopWatch\obj\Release\SettingPage.g.cs
+E:\Windows Phone\提交App\秒表\1.4.0.3\代码\LiStopWatch\obj\Release\LoopPage.g.cs
+E:\Windows Phone\提交App\秒表\1.4.0.3\代码\LiStopWatch\obj\Release\LiStopWatch.g.resources
+E:\Windows Phone\提交App\秒表\1.4.0.3\代码\LiStopWatch\obj\Release\LiStopWatch.dll
+E:\Windows Phone\提交App\秒表\1.4.0.3\代码\LiStopWatch\obj\Release\LiStopWatch.pdb
+E:\Windows Phone\提交App\秒表\1.4.0.3\代码\LiStopWatch\obj\Release\XapCacheFile.xml
+C:\Users\LIJIE\Desktop\代码\LiStopWatch\Bin\Release\LiStopWatch.dll
+C:\Users\LIJIE\Desktop\代码\LiStopWatch\Bin\Release\LiStopWatch.pdb
+C:\Users\LIJIE\Desktop\代码\LiStopWatch\Bin\Release\AppManifest.xaml
+C:\Users\LIJIE\Desktop\代码\LiStopWatch\Bin\Release\LiStopWatch_Release_AnyCPU.xap
+C:\Users\LIJIE\Desktop\代码\LiStopWatch\Bin\Release\Coding4Fun.Phone.Controls.dll
+C:\Users\LIJIE\Desktop\代码\LiStopWatch\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\LIJIE\Desktop\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\LIJIE\Desktop\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\LIJIE\Desktop\代码\LiStopWatch\Bin\Release\ShakeGestures.dll
+C:\Users\LIJIE\Desktop\代码\LiStopWatch\obj\Release\App.g.cs
+C:\Users\LIJIE\Desktop\代码\LiStopWatch\obj\Release\MainPage.g.cs
+C:\Users\LIJIE\Desktop\代码\LiStopWatch\obj\Release\PivotPageAbout.g.cs
+C:\Users\LIJIE\Desktop\代码\LiStopWatch\obj\Release\SaveFileDialog.g.cs
+C:\Users\LIJIE\Desktop\代码\LiStopWatch\obj\Release\SettingPage.g.cs
+C:\Users\LIJIE\Desktop\代码\LiStopWatch\obj\Release\LoopPage.g.cs
+C:\Users\LIJIE\Desktop\代码\LiStopWatch\obj\Release\LiStopWatch.g.resources
+C:\Users\LIJIE\Desktop\代码\LiStopWatch\obj\Release\LiStopWatch.dll
+C:\Users\LIJIE\Desktop\代码\LiStopWatch\obj\Release\LiStopWatch.pdb
+C:\Users\LIJIE\Desktop\代码\LiStopWatch\obj\Release\XapCacheFile.xml
+C:\Users\慕白\Desktop\代码\LiStopWatch\Bin\Release\LiStopWatch.dll
+C:\Users\慕白\Desktop\代码\LiStopWatch\Bin\Release\LiStopWatch.pdb
+C:\Users\慕白\Desktop\代码\LiStopWatch\Bin\Release\AppManifest.xaml
+C:\Users\慕白\Desktop\代码\LiStopWatch\Bin\Release\LiStopWatch_Release_AnyCPU.xap
+C:\Users\慕白\Desktop\代码\LiStopWatch\Bin\Release\Coding4Fun.Phone.Controls.dll
+C:\Users\慕白\Desktop\代码\LiStopWatch\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+C:\Users\慕白\Desktop\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\慕白\Desktop\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+C:\Users\慕白\Desktop\代码\LiStopWatch\Bin\Release\ShakeGestures.dll
+C:\Users\慕白\Desktop\代码\LiStopWatch\obj\Release\App.g.cs
+C:\Users\慕白\Desktop\代码\LiStopWatch\obj\Release\MainPage.g.cs
+C:\Users\慕白\Desktop\代码\LiStopWatch\obj\Release\PivotPageAbout.g.cs
+C:\Users\慕白\Desktop\代码\LiStopWatch\obj\Release\SaveFileDialog.g.cs
+C:\Users\慕白\Desktop\代码\LiStopWatch\obj\Release\SettingPage.g.cs
+C:\Users\慕白\Desktop\代码\LiStopWatch\obj\Release\LoopPage.g.cs
+C:\Users\慕白\Desktop\代码\LiStopWatch\obj\Release\LiStopWatch.g.resources
+C:\Users\慕白\Desktop\代码\LiStopWatch\obj\Release\LiStopWatch.dll
+C:\Users\慕白\Desktop\代码\LiStopWatch\obj\Release\LiStopWatch.pdb
+C:\Users\慕白\Desktop\代码\LiStopWatch\obj\Release\XapCacheFile.xml
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\LiStopWatch.dll.config
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\LiStopWatch.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\LiStopWatch.pdb
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\AppManifest.xaml
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\Properties\WMAppManifest.xml
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\LiStopWatch_Release_AnyCPU.xap
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\Coding4Fun.Phone.Controls.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\ShakeGestures.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\Bin\Release\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\obj\Release\App.g.cs
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\obj\Release\MainPage.g.cs
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\obj\Release\PivotPageAbout.g.cs
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\obj\Release\SettingPage.g.cs
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\obj\Release\LoopPage.g.cs
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\obj\Release\LiStopWatch.g.resources
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\obj\Release\LiStopWatch.dll
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\obj\Release\LiStopWatch.pdb
+E:\Windows Phone\提交App\Windows Phone 8\秒表1.2.0.2\代码\LiStopWatch\obj\Release\XapCacheFile.xml
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\LiStopWatch.dll.config
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\LiStopWatch.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\LiStopWatch.pdb
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\AppManifest.xaml
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\Properties\WMAppManifest.xml
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\LiStopWatch_Release_AnyCPU.xap
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\Coding4Fun.Phone.Controls.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\ShakeGestures.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\Bin\Release\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\obj\Release\App.g.cs
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\obj\Release\MainPage.g.cs
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\obj\Release\PivotPageAbout.g.cs
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\obj\Release\SettingPage.g.cs
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\obj\Release\LoopPage.g.cs
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\obj\Release\LiStopWatch.g.resources
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\obj\Release\LiStopWatch.dll
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\obj\Release\LiStopWatch.pdb
+E:\Windows Phone\提交App\秒表\1.2.0.3\代码\LiStopWatch\obj\Release\XapCacheFile.xml
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\LiStopWatch.dll.config
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\LiStopWatch.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\LiStopWatch.pdb
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\AppManifest.xaml
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\Properties\WMAppManifest.xml
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\LiStopWatch_Release_AnyCPU.xap
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\Coding4Fun.Phone.Controls.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\ShakeGestures.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\Bin\Release\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\obj\Release\App.g.cs
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\obj\Release\MainPage.g.cs
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\obj\Release\PivotPageAbout.g.cs
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\obj\Release\SettingPage.g.cs
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\obj\Release\LoopPage.g.cs
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\obj\Release\LiStopWatch.g.resources
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\obj\Release\LiStopWatch.dll
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\obj\Release\LiStopWatch.pdb
+E:\Windows Phone\提交App\秒表\1.2.0.4\代码\LiStopWatch\obj\Release\XapCacheFile.xml
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\LiStopWatch.dll.config
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\LiStopWatch.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\LiStopWatch.pdb
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\AppManifest.xaml
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\Properties\WMAppManifest.xml
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\LiStopWatch_Release_AnyCPU.xap
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\Coding4Fun.Phone.Controls.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\Coding4Fun.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\Microsoft.Phone.Controls.Toolkit.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\ShakeGestures.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\ar-SA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\az-Latn-AZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\be-BY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\bg-BG\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\ca-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\cs-CZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\da-DK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\de-DE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\el-GR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\en-GB\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\es-ES\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\es-MX\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\et-EE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\fa-IR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\fi-FI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\fil-PH\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\fr-CA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\fr-FR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\he-IL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\hi-IN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\hr-HR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\hu-HU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\id-ID\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\it-IT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\ja-JP\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\kk-KZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\ko-KR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\lt-LT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\lv-LV\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\mk-MK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\ms-MY\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\nb-NO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\nl-NL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\pl-PL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\pt-BR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\pt-PT\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\ro-RO\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\ru-RU\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\sk-SK\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\sl-SI\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\sq-AL\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\sr-Latn-CS\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\sv-SE\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\th-TH\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\tr-TR\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\uk-UA\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\uz-Latn-UZ\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\vi-VN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\zh-CN\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\Bin\Release\zh-TW\Microsoft.Phone.Controls.Toolkit.resources.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\obj\Release\App.g.cs
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\obj\Release\MainPage.g.cs
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\obj\Release\PivotPageAbout.g.cs
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\obj\Release\SettingPage.g.cs
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\obj\Release\LoopPage.g.cs
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\obj\Release\LiStopWatch.g.resources
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\obj\Release\LiStopWatch.dll
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\obj\Release\LiStopWatch.pdb
+E:\Windows Phone\提交App\秒表\1.2.0.6\代码\LiStopWatch\obj\Release\XapCacheFile.xml
