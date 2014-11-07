@@ -1,9 +1,3 @@
-﻿/**
- * 1.作者：李杰
- * 2.本次更新更正了提示音播放，没有使用MediaElement的方法，而是采用了Microsoft.Xna.Framework.Audio
- *   中的SoundEffect方法，这样就不会打断播放器音乐播放。
- * 3.2012.11.24
- */
 using System;
 using System.IO;
 using System.Windows;
